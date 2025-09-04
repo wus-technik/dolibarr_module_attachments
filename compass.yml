@@ -1,0 +1,18 @@
+name: dolibarr_module_attachments
+id: ari:cloud:compass:29687d12-de2f-40ae-98eb-16a2337c6547:component/27fd418c-f0b4-477c-a1d3-a6f789c15241/a64d45a3-6544-4ab3-82a5-e60f9573eecb
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: ari:cloud:identity::team/5cce07e0-1c30-4b9c-aa74-9b5cb78e9968
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/wus-technik/dolibarr_module_attachments
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:php
+  - source:github
+customFields: null
